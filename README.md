@@ -1,79 +1,15 @@
-# Data Analytics & Engineering Portfolio
+# 💫 About Me:
+### About Me<br><br>Hi! I'm an aspiring Data Analyst and Data Engineer with 5 years of experience in Trust & Safety operations and Quality Assurance. My background has strengthened my analytical thinking, attention to detail, and ability to identify patterns, evaluate performance, and improve operational processes.<br><br>I have developed technical skills in SQL, Python, data visualization, and ETL through data analytics training and hands-on projects. I'm passionate about transforming raw data into meaningful insights and building reliable data workflows to support data-driven decision-making.<br><br>Currently, I'm looking for opportunities to apply my analytical mindset and technical skills while continuing to grow in the data field.
 
-Welcome to my Data Analytics and Data Engineering portfolio.
 
-I have 5 years of experience in Trust & Safety operations, with a background in quality assurance, KPI monitoring, operational analysis, and process improvement.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raka-airlangga) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raka.airlanggaa@gmail.com) 
 
-I transitioned into the data field through a comprehensive Data Analyst Bootcamp, where I developed hands-on experience across data analysis and data engineering workflows.
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=airlangga-08&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=airlangga-08&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=airlangga-08&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Technical Skills
-
-### Data Analytics
-- SQL
-- Python
-- Pandas
-- Exploratory Data Analysis
-- Data Visualization
-- Tableau
-- Looker Studio
-
-### Data Engineering
-- Python
-- PySpark
-- PostgreSQL
-- MongoDB
-- dbt
-- Apache Airflow
-- Docker
-- Great Expectations
-- ETL / ELT
-
-## 📊 Data Analytics Projects
-
-### Human Trafficking Data Analysis
-Analyzed human trafficking data to identify demographic, recruitment, and exploitation risk patterns.
-
-[View Project] (https://github.com/dutarangga3107-max/CODA-020-Final_Project)
-**Tools:** SQL, Python, PostgreSQL, Tableau
-
-### Webscrapping Agoda
-Analyzed Agoda flights to identify pricing patterns and potential market opportunities.
-
-[View Project] (https://github.com/airlangga-08/Portofolio-Web-Scraping)
-
-**Tools:** Python, SQL
-
-### Travel & Hotel Data Analysis
-Analyzed hotel pricing and availability across destinations and hotel categories.
-
-[View Project] (https://github.com/airlangga-08/Statistic-and-Visualization)
-
-**Tools:** Python, SQL, Tableau
-
-## ⚙️ Data Engineering Projects
-
-### Coffee Sales ETL Pipeline
-Built an automated ETL pipeline to extract, transform, validate, and load coffee sales data.
-
-[View Project] (https://github.com/airlangga-08/ETL-Portofolio)
-
-**Tools:** Python, PySpark, Airflow, Docker, Great Expectations, MongoDB
-
-**Pipeline:**
-
-Extract → Transform → Validate → Load
-
-## 🎯 Areas of Interest
-
-- Data Analytics
-- Data Engineering
-- ETL / ELT Pipelines
-- Data Quality
-- Data Processing
-- Database Management
-- Data Visualization
-- Workflow Orchestration
-
-## 👨‍💻 About Me
-
-I am currently seeking opportunities in Data Analytics and Data Engineering where I can apply my analytical and technical skills while continuing to develop my experience in working with data.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
